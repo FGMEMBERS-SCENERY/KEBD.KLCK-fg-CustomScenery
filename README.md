@@ -1,4 +1,4 @@
-LSGG-fg-customScenery
+KEBD.KLCK-fg-customScenery
 =====================
 
 Flightgear Custom Scenery for Appalachian (or Mingo County) Regional  :: KEBD
