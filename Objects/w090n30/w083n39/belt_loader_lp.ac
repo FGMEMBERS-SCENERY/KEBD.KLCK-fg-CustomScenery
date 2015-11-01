@@ -6,7 +6,7 @@ name "Blender_export__belt_loader_lp.ac"
 kids 1
 OBJECT poly
 name "Cube.002"
-texture "belt_loader.png"
+texture "belt_loader_lp.png"
 texrep 1 1
 numvert 2440
 1.0440830 0.5103440 -1.7210675

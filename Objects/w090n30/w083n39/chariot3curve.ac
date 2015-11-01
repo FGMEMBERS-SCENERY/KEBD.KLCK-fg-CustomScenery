@@ -9,7 +9,7 @@ kids 2
 OBJECT poly
 name "Cube.001"
 loc 2.9981737 0.0000000 0.0007460
-texture "objects.png"
+texture "chariot3curve.png"
 texrep 1 1
 numvert 476
 -3.3732409 0.2290568 -0.7026225
@@ -3462,6 +3462,6 @@ kids 0
 OBJECT poly
 name "Cube.002"
 loc 2.9981737 0.0000000 0.0007460
-texture "objects.png"
+texture "chariot3curve.png"
 texrep 1 1
 kids 0

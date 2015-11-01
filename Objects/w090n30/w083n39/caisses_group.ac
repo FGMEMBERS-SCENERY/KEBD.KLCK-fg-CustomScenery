@@ -6,7 +6,7 @@ name "Blender_export__caisses_group.ac"
 kids 1
 OBJECT poly
 name "jour.002"
-texture "caisses_services.png"
+texture "caisses_group.png"
 texrep 1 1
 numvert 900
 2.4864421 0.2589350 -5.7480478

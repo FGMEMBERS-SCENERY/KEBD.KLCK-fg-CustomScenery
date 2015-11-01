@@ -10,7 +10,7 @@ kids 2
 OBJECT poly
 name "contianer1.001"
 loc -1.5605952 0.3507552 -6.3717170
-texture "container6.png"
+texture "LuggCartGroup.png"
 texrep 1 1
 numvert 40
 2.4728670 -0.0120398 0.4964656

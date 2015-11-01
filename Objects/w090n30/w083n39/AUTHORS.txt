@@ -3,6 +3,8 @@ Authorship disclaimer
 
 Several Models distributed in this package had been made available under the Project 3000airports by Martin Herweg (D-LASER).
 
+Files had been standardized to facilitate upload as shared objects into Terrasync by Israel Hernandez (IAHM-COL)
+
 :copyright: 2015
 License: GPL 3+
 

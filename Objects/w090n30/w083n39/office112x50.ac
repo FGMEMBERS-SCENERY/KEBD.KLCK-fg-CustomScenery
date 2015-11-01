@@ -8,7 +8,7 @@ kids 1
 OBJECT poly
 name "blah.000"
 loc 0.0000000 -2.7414603 0.0000000
-texture "OfficeBuilding74x18Windows.png"
+texture "office112x50"
 texrep 1 1
 numvert 12
 -56.0127029 -0.7778263 -58.8026772

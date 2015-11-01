@@ -7,7 +7,7 @@ kids 1
 OBJECT poly
 name "RampParkingStripe"
 loc 0.0000000 0.1542419 0.0000000
-texture "RampParkingStripe.png"
+texture "RampGroup.png"
 texrep 1 1
 numvert 4
 -12.4188299 0.0714635 12.7655563
