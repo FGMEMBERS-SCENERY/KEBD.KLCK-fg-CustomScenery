@@ -1,6 +1,8 @@
 KEBD.KLCK-fg-customScenery
 =====================
 
+![USA TOUR Ready](https://raw.githubusercontent.com/FGMEMBERS-SCENERY/KEBD.KLCK-fg-CustomScenery/master/usatour.png)
+
 Flightgear Custom Scenery for Appalachian (or Mingo County) Regional  :: KEBD
 Flightgear Custom Scenery for Rickenbacker Intl. Airport and Airforce base :: KLCK
 
